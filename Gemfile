@@ -32,3 +32,6 @@ gem 'haml'
 
 # Deploy with Capistrano
 # gem 'capistrano'
+
+#rake routes
+gem 'rails-i18n', '>= 0.6.5'
